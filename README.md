@@ -1,3 +1,9 @@
+# JAVA
+
+**kafka/notebooks/jdk-11** ფოლდერში უნდა გადმოწეროთ და ჩააგდოთ Java 11 (JDK)
+
+---
+
 = (Extremely) Basic Kafka Tutorial
 
 This repository contains a super simple intro to Kafka tutorial.
